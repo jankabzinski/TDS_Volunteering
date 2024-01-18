@@ -7,7 +7,7 @@
     "data_od": "2024-03-15",
     "data_do": "2024-03-15",
     "liczba_potrzebnych_ochotnikow": 10,
-    "liczba_zapisanych_ochotnikow": 9,
+    "liczba_zapisanych_ochotnikow": 8,
     "opis": "Sprz\u0105tanie pla\u017cy po zimie.",
     "preferencje_kandydata": null,
     "kategoria": "Ekologia",
@@ -24,7 +24,7 @@
     "data_od": "2024-04-05",
     "data_do": "2024-04-05",
     "liczba_potrzebnych_ochotnikow": 15,
-    "liczba_zapisanych_ochotnikow": 14,
+    "liczba_zapisanych_ochotnikow": 12,
     "opis": "Dziel si\u0119 posi\u0142kiem z bezdomnymi.",
     "preferencje_kandydata": null,
     "kategoria": "Pomoc Spo\u0142eczna",
@@ -40,8 +40,8 @@
     "adres": "ul. Spo\u017cywcza 8",
     "data_od": "2024-05-10",
     "data_do": "2024-05-10",
-    "liczba_potrzebnych_ochotnikow": 7,
-    "liczba_zapisanych_ochotnikow": 7,
+    "liczba_potrzebnych_ochotnikow": 8,
+    "liczba_zapisanych_ochotnikow": 6,
     "opis": "Pomoc w zbi\u00f3rce \u017cywno\u015bci dla potrzebuj\u0105cych.",
     "preferencje_kandydata": null,
     "kategoria": "Pomoc Spo\u0142eczna",
@@ -167,183 +167,6 @@
     "wspolrzedne": [
       53.1235,
       18.0084
-    ]
-  },
-  {
-    "id": 11,
-    "nazwa": "Dokarmianie ptak\u00f3w 'gru' 'gru'",
-    "miasto": "Warszawa",
-    "adres": "Marsza\u0142kowska 6",
-    "data_od": "2024-01-18",
-    "data_do": "2024-01-18",
-    "liczba_potrzebnych_ochotnikow": 23,
-    "liczba_zapisanych_ochotnikow": 0,
-    "opis": "KARMIMY PTAKI",
-    "preferencje_kandydata": [
-      "Plastyka"
-    ],
-    "kategoria": "Edukacja",
-    "wspolrzedne": [
-      52.2186573,
-      21.021147
-    ]
-  },
-  {
-    "id": 12,
-    "nazwa": "Przeprowadzanie przez ulic\u0119 babci Tomka",
-    "miasto": "Gniezno",
-    "adres": "\u0141ubie\u0144skiego 6",
-    "data_od": "2024-01-18",
-    "data_do": "2024-01-18",
-    "liczba_potrzebnych_ochotnikow": 300,
-    "liczba_zapisanych_ochotnikow": 0,
-    "opis": "BABCIA TOMKA CZEKA NA POMOC",
-    "preferencje_kandydata": [
-      "Edukacja",
-      "Empatia"
-    ],
-    "kategoria": "Pomoc Spo\u0142eczna",
-    "wspolrzedne": [
-      52.52927986453528,
-      17.5917193410768
-    ]
-  },
-  {
-    "id": 13,
-    "nazwa": "Strzelanie do dzik\u00f3w",
-    "miasto": "Karniszewo",
-    "adres": "10A",
-    "data_od": "2024-01-18",
-    "data_do": "2024-01-18",
-    "liczba_potrzebnych_ochotnikow": 40000,
-    "liczba_zapisanych_ochotnikow": 0,
-    "opis": "ZABIJAMY DZIKI",
-    "preferencje_kandydata": [
-      "Ogrodnictwo",
-      "Praca w grupie"
-    ],
-    "kategoria": "Ochrona Zwierz\u0105t",
-    "wspolrzedne": [
-      52.6377928,
-      17.4857985
-    ]
-  },
-  {
-    "id": 14,
-    "nazwa": "Przytulanie losowych ludzi za ich zgod\u0105",
-    "miasto": "Mieleszyn",
-    "adres": "37",
-    "data_od": "2024-01-18",
-    "data_do": "2024-01-18",
-    "liczba_potrzebnych_ochotnikow": 100,
-    "liczba_zapisanych_ochotnikow": 1,
-    "opis": "EX CLUB - i wszystko jasne...",
-    "preferencje_kandydata": [
-      "Komunikacja",
-      "Empatia",
-      "Pierwsza pomoc"
-    ],
-    "kategoria": "Kultura",
-    "wspolrzedne": [
-      52.6674533,
-      17.4962232
-    ]
-  },
-  {
-    "id": 15,
-    "nazwa": "WO\u015aP",
-    "miasto": "Lubstynek",
-    "adres": "2A",
-    "data_od": "2024-01-18",
-    "data_do": "2024-01-18",
-    "liczba_potrzebnych_ochotnikow": 12,
-    "liczba_zapisanych_ochotnikow": 0,
-    "opis": "WO\u015aP",
-    "preferencje_kandydata": [
-      "Komunikacja",
-      "Empatia",
-      "Pierwsza pomoc"
-    ],
-    "kategoria": "Sport",
-    "wspolrzedne": [
-      53.52386065,
-      19.875039176566048
-    ]
-  },
-  {
-    "id": 16,
-    "nazwa": "Picie Grappy Ice",
-    "miasto": "Gnatowo",
-    "adres": "12",
-    "data_od": "2024-01-18",
-    "data_do": "2024-01-18",
-    "liczba_potrzebnych_ochotnikow": 100,
-    "liczba_zapisanych_ochotnikow": 0,
-    "opis": "Grappa Ice jest bardzo nice",
-    "preferencje_kandydata": [
-      "Organizacja"
-    ],
-    "kategoria": "Edukacja",
-    "wspolrzedne": [
-      54.0917845,
-      21.34615897209576
-    ]
-  },
-  {
-    "id": 22,
-    "nazwa": "G\u0142askanie piesk\u00f3w",
-    "miasto": "Lubo\u0144",
-    "adres": "Dworcowa",
-    "data_od": "2024-01-18",
-    "data_do": "2024-01-18",
-    "liczba_potrzebnych_ochotnikow": 1000000,
-    "liczba_zapisanych_ochotnikow": 0,
-    "opis": "U W U",
-    "preferencje_kandydata": [
-      "Opieka nad zwierz\u0119tami"
-    ],
-    "kategoria": "Ochrona Zwierz\u0105t",
-    "wspolrzedne": [
-      52.3439762,
-      16.8928174
-    ]
-  },
-  {
-    "id": 18,
-    "nazwa": "sada",
-    "miasto": "Borowy M\u0142yn",
-    "adres": "22H",
-    "data_od": "2024-01-18",
-    "data_do": "2024-01-18",
-    "liczba_potrzebnych_ochotnikow": 2,
-    "liczba_zapisanych_ochotnikow": 0,
-    "opis": "asa",
-    "preferencje_kandydata": [
-      "Empatia"
-    ],
-    "kategoria": "Ochrona Zwierz\u0105t",
-    "wspolrzedne": [
-      53.8685281,
-      18.9608716
-    ]
-  },
-  {
-    "id": 19,
-    "nazwa": "Je\u017cd\u017cenie rowerem z osobami starszymi",
-    "miasto": "Mie\u015bcisko",
-    "adres": "3",
-    "data_od": "2024-01-18",
-    "data_do": "2024-01-18",
-    "liczba_potrzebnych_ochotnikow": 2,
-    "liczba_zapisanych_ochotnikow": 2,
-    "opis": "#jedziemy",
-    "preferencje_kandydata": [
-      "Komunikacja"
-    ],
-    "kategoria": "Sport",
-    "wspolrzedne": [
-      51.4594228,
-      21.74744536045656
     ]
   }
 ]
