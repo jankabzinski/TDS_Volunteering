@@ -9,7 +9,10 @@
     "liczba_potrzebnych_ochotnikow": 10,
     "liczba_zapisanych_ochotnikow": 9,
     "opis": "Sprz\u0105tanie pla\u017cy po zimie.",
-    "preferencje_kandydata": null,
+    "preferencje_kandydata": [
+      "Praca w grupie",
+      "Ekologia"
+    ],
     "kategoria": "Ekologia",
     "wspolrzedne": [
       54.352,
@@ -26,7 +29,11 @@
     "liczba_potrzebnych_ochotnikow": 15,
     "liczba_zapisanych_ochotnikow": 14,
     "opis": "Dziel si\u0119 posi\u0142kiem z bezdomnymi.",
-    "preferencje_kandydata": null,
+    "preferencje_kandydata": [
+      "Gotowanie",
+      "Empatia",
+      "Komunikacja"
+    ],
     "kategoria": "Pomoc Spo\u0142eczna",
     "wspolrzedne": [
       51.1079,
@@ -43,7 +50,9 @@
     "liczba_potrzebnych_ochotnikow": 7,
     "liczba_zapisanych_ochotnikow": 7,
     "opis": "Pomoc w zbi\u00f3rce \u017cywno\u015bci dla potrzebuj\u0105cych.",
-    "preferencje_kandydata": null,
+    "preferencje_kandydata": [
+      "Organizacja"
+    ],
     "kategoria": "Pomoc Spo\u0142eczna",
     "wspolrzedne": [
       52.4068,
@@ -60,7 +69,10 @@
     "liczba_potrzebnych_ochotnikow": 12,
     "liczba_zapisanych_ochotnikow": 10,
     "opis": "Pomoc w organizacji festiwalu sztuki.",
-    "preferencje_kandydata": null,
+    "preferencje_kandydata": [
+      "Edukacja",
+      "Plastyka"
+    ],
     "kategoria": "Kultura",
     "wspolrzedne": [
       50.0647,
@@ -77,7 +89,10 @@
     "liczba_potrzebnych_ochotnikow": 20,
     "liczba_zapisanych_ochotnikow": 18,
     "opis": "Organizacja uczty dla os\u00f3b bezdomnych.",
-    "preferencje_kandydata": null,
+    "preferencje_kandydata": [
+      "Gotowanie",
+      "Organizacja"
+    ],
     "kategoria": "Pomoc Spo\u0142eczna",
     "wspolrzedne": [
       52.2297,
@@ -94,7 +109,9 @@
     "liczba_potrzebnych_ochotnikow": 15,
     "liczba_zapisanych_ochotnikow": 12,
     "opis": "Sadzenie drzew dla poprawy \u015brodowiska naturalnego.",
-    "preferencje_kandydata": "Osoby z do\u015bwiadczeniem w pracy ogrodniczej mile widziane.",
+    "preferencje_kandydata": [
+      "Ogrodnictwo"
+    ],
     "kategoria": "Ekologia",
     "wspolrzedne": [
       51.7592,
@@ -111,7 +128,9 @@
     "liczba_potrzebnych_ochotnikow": 10,
     "liczba_zapisanych_ochotnikow": 8,
     "opis": "Pomoc w opiece nad zwierz\u0119tami w schronisku.",
-    "preferencje_kandydata": null,
+    "preferencje_kandydata": [
+      "Opieka nad zwierz\u0119tami"
+    ],
     "kategoria": "Ochrona Zwierz\u0105t",
     "wspolrzedne": [
       50.2649,
@@ -128,7 +147,11 @@
     "liczba_potrzebnych_ochotnikow": 8,
     "liczba_zapisanych_ochotnikow": 6,
     "opis": "Organizacja turnieju szachowego dla dzieci.",
-    "preferencje_kandydata": null,
+    "preferencje_kandydata": [
+      "Organizacja",
+      "Komunikacja",
+      "Media"
+    ],
     "kategoria": "Edukacja",
     "wspolrzedne": [
       54.5189,
@@ -145,7 +168,11 @@
     "liczba_potrzebnych_ochotnikow": 12,
     "liczba_zapisanych_ochotnikow": 10,
     "opis": "Pomoc w zabezpieczaniu imprezy sportowej.",
-    "preferencje_kandydata": null,
+    "preferencje_kandydata": [
+      "Organizacja",
+      "Komunikacja",
+      "Media"
+    ],
     "kategoria": "Sport",
     "wspolrzedne": [
       53.4289,
@@ -162,7 +189,10 @@
     "liczba_potrzebnych_ochotnikow": 15,
     "liczba_zapisanych_ochotnikow": 12,
     "opis": "Organizacja warsztat\u00f3w artystycznych dla dzieci.",
-    "preferencje_kandydata": null,
+    "preferencje_kandydata": [
+      "Plastyka",
+      "Opieka nad dzie\u0107mi"
+    ],
     "kategoria": "Edukacja",
     "wspolrzedne": [
       53.1235,
@@ -290,7 +320,7 @@
     ]
   },
   {
-    "id": 22,
+    "id": 17,
     "nazwa": "G\u0142askanie piesk\u00f3w",
     "miasto": "Lubo\u0144",
     "adres": "Dworcowa",
@@ -310,25 +340,6 @@
   },
   {
     "id": 18,
-    "nazwa": "sada",
-    "miasto": "Borowy M\u0142yn",
-    "adres": "22H",
-    "data_od": "2024-01-18",
-    "data_do": "2024-01-18",
-    "liczba_potrzebnych_ochotnikow": 2,
-    "liczba_zapisanych_ochotnikow": 0,
-    "opis": "asa",
-    "preferencje_kandydata": [
-      "Empatia"
-    ],
-    "kategoria": "Ochrona Zwierz\u0105t",
-    "wspolrzedne": [
-      53.8685281,
-      18.9608716
-    ]
-  },
-  {
-    "id": 19,
     "nazwa": "Je\u017cd\u017cenie rowerem z osobami starszymi",
     "miasto": "Mie\u015bcisko",
     "adres": "3",
@@ -344,6 +355,26 @@
     "wspolrzedne": [
       51.4594228,
       21.74744536045656
+    ]
+  },
+  {
+    "id": 19,
+    "nazwa": "\u0141apanie Drillowc\u00f3w",
+    "miasto": "Pozna\u0144",
+    "adres": "Pleszewska 1",
+    "data_od": "2024-01-25",
+    "data_do": "2024-02-29",
+    "liczba_potrzebnych_ochotnikow": 1234,
+    "liczba_zapisanych_ochotnikow": 0,
+    "opis": "zapraszamy wszystkich ch\u0119tnych",
+    "preferencje_kandydata": [
+      "Opieka nad dzie\u0107mi",
+      "Praca w grupie"
+    ],
+    "kategoria": "Sport",
+    "wspolrzedne": [
+      52.3953131,
+      16.9564764
     ]
   }
 ]
